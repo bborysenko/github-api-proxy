@@ -5,7 +5,7 @@ A simple Python-based proxy web server that forwards text-based queries to the G
 - [x] Create a simple web server using Python or Node.js.
 - [x] Select any public API that supports text-based queries.
 - [x] Proxy the APIs from this web server.
-- [ ] Dockerize the application.
+- [x] Dockerize the application.
 - [ ] Install Database - RethinkDB\MongoDB using Docker.
 - [ ] Establish a connection from the application to the chosen database using environment variables.
 
